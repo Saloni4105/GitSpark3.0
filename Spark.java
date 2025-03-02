@@ -8,7 +8,8 @@ class Spark{
     {
         System.out.println("m1");
     }
-    public void notify(){
+    public void notify()
+    {
         System.out.println("Hello user");
     }
 }
