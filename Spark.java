@@ -3,4 +3,6 @@ class Spark{
     {
         System.out.println("Hello");
     }
+
+    public void m1();
 }
